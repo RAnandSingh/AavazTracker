@@ -1,3 +1,4 @@
+```js
 <script>
     window.AavazTrackerConfig = {
       siteKey: 'YOUR_SITE_KEY',
@@ -5,4 +6,4 @@
     }
   </script>
   <script src="https://cdn.jsdelivr.net/gh/RAnandSingh/AavazTracker@1.0.0/aavaz-tracker.min.js" async></script>
-
+```
